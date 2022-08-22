@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+       AreaCalculator.area(25);
+       AreaCalculator.area(2,4);
     }
 }
